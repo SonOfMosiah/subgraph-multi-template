@@ -1,0 +1,8 @@
+{
+    "mainnet": {
+        "ExampleContract": {
+            "address": "0x000",
+            "startBlock": 123
+        }
+    }
+}
